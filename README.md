@@ -34,7 +34,7 @@ iTask is a simple and clean Todo application built with React. It helps you mana
 
 ## Screenshot
 
-![iTask Screenshot](iTask.png)
+![iTask Screenshot](public/iTask.png)
 
 ---
 
